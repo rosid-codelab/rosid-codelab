@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://images2.imgbox.com/be/0b/ag1FkRRv_o.png" align="center" height="146" width="600" />
+<img src="https://images2.imgbox.com/be/0b/ag1FkRRv_o.png" align="center" height="146" width="886" />
 </div>  
   
 
-**<div align="center">I'm Rosid, a Fullstack Web and Mobile, Lecture Practic & Mentor 👨‍💻
-</div>**  
+#<div align="center">I'm Rosid, a Fullstack Web and Mobile, Lecture Practic & Mentor 👨‍💻
+</div>#  
   
 
 - 🔭 I’m currently working on [Dinas Kependudukan dan Pencatatan Sipil](https://disdukcapil.tegalkota.go.id)  
