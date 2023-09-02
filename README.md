@@ -1,7 +1,11 @@
 <div align="center">
-<a href="https://imgbox.com/KVptr7NK" target="_blank"><img src="[https://thumbs2.imgbox.com/96/3b/KVptr7NK_t.png](https://imgbox.com/ag1FkRRv)" width="600px" height="146px" alt="image host"/></a></div>  
+<img src="https://imgbox.com/ag1FkRRv" align="center" height="146" width="600" />
+</div>  
+  
 
-<div align="center">I'm Rosid Mustofa, a full-time full-stack freelance developer 👨‍💻 working remotely since 2015 🚀</div>  
+**<div align="center">I'm Rosid, a Fullstack Web and Mobile, Lecture Practic & Mentor 👨‍💻
+</div>**  
+  
 
 - 🔭 I’m currently working on [Dinas Kependudukan dan Pencatatan Sipil](https://disdukcapil.tegalkota.go.id)  
   
@@ -118,7 +122,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rosid-codelab&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
@@ -135,14 +139,20 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=rosid-codelab&&style=flat-square" align="center" />
 </div>  
   
 
 <br/>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
+            <a href="https://paypal.me/rosidmustofa" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+                    align="center"
+                />
+            </a>
+            <a href="https://www.buymeacoffee.com/rosid-codelab" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
