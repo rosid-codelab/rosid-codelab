@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://imgbox.com/KVptr7NK" align="center" height="146" width="600" />
-</div>  
+<a href="https://imgbox.com/KVptr7NK" target="_blank"><img src="https://thumbs2.imgbox.com/96/3b/KVptr7NK_t.png" alt="image host"/></a></div>  
 
 <div align="center">I'm Rosid Mustofa, a full-time full-stack freelance developer 👨‍💻 working remotely since 2015 🚀</div>  
   <h2>Ahlan Wa Sahlan</h2>
