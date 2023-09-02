@@ -1,4 +1,8 @@
-### <div align="center">I'm Rosid Mustofa, a full-time full-stack freelance developer 👨‍💻 working remotely since 2015 🚀</div>  
+<div align="center">
+<img src="https://imgbox.com/KVptr7NK" align="center" height="146" width="600" />
+</div>  
+
+<div align="center">I'm Rosid Mustofa, a full-time full-stack freelance developer 👨‍💻 working remotely since 2015 🚀</div>  
   <h2>Ahlan Wa Sahlan</h2>
 
 - 🔭 I’m currently working on [Dinas Kependudukan dan Pencatatan Sipil](https://disdukcapil.tegalkota.go.id)  
