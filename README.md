@@ -1,8 +1,7 @@
 <div align="center">
-<a href="https://imgbox.com/KVptr7NK" target="_blank"><img src="https://thumbs2.imgbox.com/96/3b/KVptr7NK_t.png" alt="image host"/></a></div>  
+<a href="https://imgbox.com/KVptr7NK" target="_blank"><img src="https://thumbs2.imgbox.com/96/3b/KVptr7NK_t.png" width="600px" height="146px" alt="image host"/></a></div>  
 
 <div align="center">I'm Rosid Mustofa, a full-time full-stack freelance developer 👨‍💻 working remotely since 2015 🚀</div>  
-  <h2>Ahlan Wa Sahlan</h2>
 
 - 🔭 I’m currently working on [Dinas Kependudukan dan Pencatatan Sipil](https://disdukcapil.tegalkota.go.id)  
   
